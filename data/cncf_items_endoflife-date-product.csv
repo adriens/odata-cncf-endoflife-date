@@ -1,0 +1,60 @@
+cncf_item_name,end_of_life_date_product
+.NET,dotnet
+Amazon Elastic Container Service for Kubernetes (EKS),amazon-eks
+Ansible,ansible
+Apache Flink,apache-flink
+Apache Hadoop,apache-hadoop
+Apache HBase,hbase
+Apache Spark,apache-spark
+Apache Zookeeper,zookeeper
+APISIX,apache-apisix
+ArangoDB,arangodb
+Argo,argo-cd
+AWS Lambda,aws-lambda
+Azure Kubernetes Service (AKS),azure-kubernetes-service
+Beats,beats
+Cassandra,apache-cassandra
+Centreon,centreon
+cert-manager,cert-manager
+CockroachDB,cockroachdb
+Consul,consul
+containerd,containerd
+Contour,contour
+Envoy,envoy
+etcd,etcd
+FFmpeg,ffmpeg
+Flink,apache-flink
+Golang,go
+Gradle Build Tool,gradle
+Grafana,grafana
+Grafana Loki,grafana-loki
+Graylog,graylog
+HAProxy,haproxy
+Harbor,harbor
+Icinga,icinga
+Istio,istio
+Jenkins,jenkins
+Kafka,apache-kafka
+Keycloak,keycloak
+Kong,kong-gateway
+Kubernetes,kubernetes
+Logstash,logstash
+MariaDB,mariadb
+Memcached,memcached
+MongoDB,mongodb
+MySQL,mysql
+Neo4j,neo4j
+NGINX,nginx
+Nomad,nomad
+Oracle Database,oracle-database
+Puppet,puppet
+Quarkus,quarkus-framework
+Red Hat OpenShift,red-hat-openshift
+Redis,redis
+PostgreSQL,postgresql
+Project Calico,calico
+Prometheus,prometheus
+Rust,rust
+Splunk,splunk
+Terraform,terraform
+Vault,hashicorp-vault
